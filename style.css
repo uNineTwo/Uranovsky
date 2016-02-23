@@ -1,0 +1,65 @@
+
+body {
+    margin: 0;
+    color: white;
+   }
+
+a.menu {
+    text-decoration: none;
+    color: #fff;
+}
+
+a.menu:hover {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+ ul.hr {
+    margin: 0; /* Обнуляем значение отступов */
+    padding: 10px; /* Значение полей */
+   }
+   ul.hr li  {
+    display: inline; /* Отображать как строчный элемент */
+    margin-right: 40px; /* Отступ слева */
+    font-size: 60px;
+       text-decoration: none;
+       color: white;
+   }
+
+   #header {  
+    padding: 10px; 
+    background: black;
+    color: white;
+    height: 130px;
+   }
+
+   #sidebar { 
+    float: left; 
+    border: 1px solid #333;
+    width: 20%; 
+    padding: 5px; 
+    margin: 20px 10px 20px 5px; 
+    background: #000;
+       color: #fff; 
+   }
+
+   #content { 
+       font-family: 'FuturaLight Light', arial;
+       font-size: 18px;
+    margin: 20px 5px 20px 25%; 
+    padding: 15px;
+    width: 900px;
+    background: #000;
+       color: #fff; 
+   }
+
+   #footer { 
+    padding: 5px; 
+    color: #fff; 
+    clear: left; 
+   }
+
+#society {
+    float: right;
+    margin-top: -150px;
+}
