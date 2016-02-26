@@ -1,6 +1,0 @@
-mysql_host = sql304.500mb.net
-mysql_user = runet_16729787
-mysql_password = DEN123
-mysql_database = runet_16729787_blog
-#Количество статей на страницу
-pp = 5

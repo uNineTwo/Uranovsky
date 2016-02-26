@@ -1,4 +1,12 @@
+/*
+Theme Name: Uranovsky Theme 
+Theme URL: https://vk.com/uranovsky
+Description: Тема для блога.
+Author: uNineTwo
+Version: 0.2
 
+
+*/
 body {
     margin: 0;
     color: white;
@@ -35,10 +43,9 @@ a.menu:hover {
 
    #sidebar { 
     float: left; 
-    border: 1px solid #333;
     width: 20%; 
     padding: 5px; 
-    margin: 20px 10px 20px 5px; 
+    margin: 0px 10px 20px 0px; 
     background: #000;
        color: #fff; 
    }
@@ -49,13 +56,11 @@ a.menu:hover {
     margin: 20px 5px 20px 25%; 
     padding: 15px;
     width: 900px;
-    background: #000;
-       color: #fff; 
    }
 
    #footer { 
     padding: 5px; 
-    color: #fff; 
+    color: #000; 
     clear: left; 
    }
 
