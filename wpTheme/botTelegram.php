@@ -1,14 +1,13 @@
 <?php
 
-echo('Привет, Настя.')
 
 $token='169845565:AAHOW6Vwwbh3cLNpFQ3Q19tO9RFQxNLg9DA';
 
 $chatId = 189549098;
-$text = 'Настя перешла по странице';
+$text = 'text';
 
 $parameters = [
-    'chat_id' => $schatID,
+    'chat_id' => $chatId,
     'text' => $text,
 ];
 

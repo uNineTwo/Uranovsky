@@ -28,7 +28,7 @@
   </ul>
       <div id="society">
     <a href="https://vk.com/uranovsky"><img src="wp-content/themes/Uranovsky/icons/mail.jpg"></a>
-    <a href="/"><img src="wp-content/themes/Uranovsky/icons/vk.jpg"></a>
+    <a href="http://vk.com/zombiebear"><img src="wp-content/themes/Uranovsky/icons/vk.jpg"></a>
     <a href="/"><img src="wp-content/themes/Uranovsky/icons/YouTube.jpg"></a>
           </div>
      </div>
