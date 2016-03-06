@@ -26,7 +26,9 @@
    <li><a class="menu" href="/">Файлы</a></li>
    <li><a class="menu" href="/">Галлерея</a></li>
   </ul>
-    <a href="https://vk.com/uranovsky"><img src="icons/mail.jpg"></a>
-    <a href="/"><img src="icons/vk.jpg"></a>
-    <a href="/"><img src="icons/YouTube.jpg"></a>
+      <div id="society">
+    <a href="https://vk.com/uranovsky"><img src="wp-content/themes/Uranovsky/icons/mail.jpg"></a>
+    <a href="/"><img src="wp-content/themes/Uranovsky/icons/vk.jpg"></a>
+    <a href="/"><img src="wp-content/themes/Uranovsky/icons/YouTube.jpg"></a>
+          </div>
      </div>

@@ -1,10 +1,12 @@
 <?php get_header(); ?>
+
+
   <div id="sidebar">
   <!-- VK Widget -->
       <center>
 <div id="vk_groups"></div>
 <script type="text/javascript">
-VK.Widgets.Group("vk_groups", {mode: 0, width: "250", height: "400", color1: '000000', color2: 'FFFFFF', color3: '000000'}, 98686334);
+VK.Widgets.Group("vk_groups", {mode: 0, width: "220", height: "400", color1: '000000', color2: 'FFFFFF', color3: '000000'}, 98686334);
 </script>
           
           <script id="_wauxws">var _wau = _wau || [];
