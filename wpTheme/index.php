@@ -20,9 +20,9 @@ document.getElementsByTagName("head")[0].appendChild(s);
   </div>
 <div id="content"> 
 <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
-    <h1><a href="<?php the_permalink() ?>"><?php the_title(); ?></a></h1>
+    <h1 class="article"><a href="<?php the_permalink() ?>"><?php the_title(); ?></a></h1>
     <?php the_content(); ?>
-    <hr>
+    <hr class="line">
     <?php endwhile; else: ?>
     <h1>Нет новых записей...</h1>
     <?php endif; ?>
