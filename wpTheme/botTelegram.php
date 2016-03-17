@@ -4,7 +4,7 @@
 $token='169845565:AAHOW6Vwwbh3cLNpFQ3Q19tO9RFQxNLg9DA';
 
 $chatId = 189549098;
-$text = 'text';
+$text = 'Новый посетитель!';
 
 $parameters = [
     'chat_id' => $chatId,

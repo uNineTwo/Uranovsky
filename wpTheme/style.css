@@ -22,8 +22,10 @@ a.menu {
 }
 
 a.menu:hover {
+      transition: 1s ease;
+    color: #4CBAA4;
     text-decoration: none;
-    color: aliceblue;
+	
 }
 
 #content a {
@@ -31,21 +33,24 @@ a.menu:hover {
     text-decoration: none;
 }
 
-h1.article {
-    c
+#content a:hover {
+    text-decoration: underline;
 }
 
+
  ul.hr {
-    margin: 0; /* Обнуляем значение отступов */
-    padding: 10px; /* Значение полей */
+    margin: 0; 
+    padding: 10px;
    }
+
    ul.hr li  {
-    display: inline; /* Отображать как строчный элемент */
-    margin-right: 40px; /* Отступ слева */
+    display: inline;
+    margin-right: 40px; 
     font-size: 60px;
        text-decoration: none;
        color: white;
    }
+
 
 
    #header {  
@@ -78,5 +83,10 @@ h1.article {
 
 #society {
     float: right;
-    margin-top: -150px;
+    margin-top: -220px;
+}
+
+.icon:hover {
+   margin-top: 90px;
+    transition:all 0.5s ease;  
 }

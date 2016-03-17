@@ -24,11 +24,11 @@
      <ul class="hr">
    <li><a class="menu" href="/">Главная</a></li>
    <li><a class="menu" href="/">Файлы</a></li>
-   <li><a class="menu" href="/">Галлерея</a></li>
+   <li><a class="menu" href="wp-content/themes/Uranovsky/portfolio.html">Портфолио</a></li>
   </ul>
       <div id="society">
-    <a href="https://vk.com/uranovsky"><img src="wp-content/themes/Uranovsky/icons/mail.jpg"></a>
-    <a href="http://vk.com/zombiebear"><img src="wp-content/themes/Uranovsky/icons/vk.jpg"></a>
-    <a href="/"><img src="wp-content/themes/Uranovsky/icons/YouTube.jpg"></a>
+    <a href="http://vk.com/uranovsky"><img src="wp-content/themes/Uranovsky/icons/mail.jpg" class="icon"></a>
+    <a href="http://vk.com/zombiebear"><img src="wp-content/themes/Uranovsky/icons/vk.jpg" class="icon"></a>
+    <a href="/"><img src="wp-content/themes/Uranovsky/icons/YouTube.jpg" class="icon"></a>
           </div>
      </div>
